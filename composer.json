@@ -1,0 +1,16 @@
+{
+    "name": "danielrosenosi/design-patterns",
+    "description": "Padrões de Projeto com PHP",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/Core"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos Daniel",
+            "email": "devroseno@gmail.com"
+        }
+    ],
+    "require": {}
+}
